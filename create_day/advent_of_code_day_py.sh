@@ -27,4 +27,4 @@ touch $DIR_PATH/input.txt
 touch $DIR_PATH/dummy_input.txt
 
 
-echo "AoC 2023 day ${DAY} created for python."
+echo "AoC ${YEAR} day ${DAY} created for python."
